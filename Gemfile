@@ -1,1 +1,0 @@
-gem 'backbone-on-rails'
